@@ -1,0 +1,87 @@
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* For IE, Edge and Firefox */
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* YourComponent.css */
+
+.bottom-div {
+  bottom: 0; /* This will position the div at the bottom */
+}
+
+.custom-file-input {
+  position: relative;
+  display: inline-block;
+}
+
+.custom-file-input input[type="file"] {
+  position: absolute;
+  left: -9999px;
+}
+
+.custom-file-input label {
+  display: inline-block;
+  cursor: pointer;
+  background-color: #f0f0f0;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.custom-file-input label span {
+  margin-right: 10px;
+}
+
+.icon-upload {
+  /* Add your icon styling here */
+}
+
+.custom-file-input label span {
+  margin-right: 10px;
+}
+
+.py-32 {
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.my-3 {
+  margin-top: 1rem !important;
+  margin-bottom: 0% !important;
+}
+
+.max-w-2xl.mx-auto.space-y-12.grid.grid-cols-1.overflow-y-auto.scroll-smooth.scrollbar-hide.overflow-x-hidden {
+  max-height: 30rem !important;
+  min-height: 30rem !important;
+}
+
+.min-h-screen.bg-gray-100 {
+  min-height: 10vh;
+  padding-bottom: 55px;
+}
+
+.p-4.rounded-r-xl {
+  /* padding: 1rem;  */
+  border-top-right-radius: 0.62rem;
+  border-bottom-right-radius: 0.62rem;
+}
+
+/* styles.css */
+.blue-button {
+  background-color: #0074cc; /* Blue color */
+  color: white; /* Text color */
+  border: none; /* Remove default button border */
+  border-radius: 4px; /* Rounded corners */
+  padding: 10px 20px; /* Add some padding for better appearance */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  font-size: 16px; /* Adjust font size */
+}
+
+.blue-button:hover {
+  background-color: #0056a7; /* Darker blue color on hover */
+}

@@ -1,0 +1,41 @@
+/* Audio Player Styles */
+.audio-player1 {
+  width: 100%;
+  max-width: 300px; /* Adjust the width as needed */
+  margin: 0 auto;
+  display: block;
+  margin-top: 10px;
+}
+
+/* Question and Answer Styles */
+.question1 {
+  margin-top: 20px;
+}
+
+/* Answer Options in One Line */
+.answer-options1 label {
+  display: inline-block;
+  margin-right: 20px; /* Add spacing between options */
+  cursor: pointer;
+}
+
+/* Feedback Styles */
+.answer-feedback1 {
+  font-weight: bold;
+}
+
+.correct1 {
+  color: green;
+}
+
+.incorrect1 {
+  color: red;
+}
+
+/* Success Message Styles */
+.success-message1 {
+  color: green;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}

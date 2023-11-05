@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.828f8c10.css",
+    "main.js": "/static/js/main.f2a140df.js",
+    "static/js/787.a9b03d03.chunk.js": "/static/js/787.a9b03d03.chunk.js",
+    "static/media/approved.jpg": "/static/media/approved.fed3e26cd7afab4e312d.jpg",
+    "static/media/detection_icon.png": "/static/media/detection_icon.def5d579935e2b3b5cfd.png",
+    "static/media/hero-main-bg.png": "/static/media/hero-main-bg.b54b1572176a37fe55fd.png",
+    "static/media/report_icon.png": "/static/media/report_icon.6f83dd2ce03b8bd2547c.png",
+    "static/media/404.png": "/static/media/404.e45a4490ce65c5b21c9e.png",
+    "static/media/g4.jpg": "/static/media/g4.f96c684ef20eb493e32a.jpg",
+    "static/media/logo.png": "/static/media/logo.089bf3cd604ba4bf08ee.png",
+    "static/media/about-banner1.png": "/static/media/about-banner1.5fbf7b3eac5f503ee185.png",
+    "static/media/g2.jpg": "/static/media/g2.43794989d65a2ed7c52f.jpg",
+    "static/media/g1.jpg": "/static/media/g1.9b545b12c11981d2b68a.jpg",
+    "static/media/experienceddentist.png": "/static/media/experienceddentist.bc74913bdb961892358b.png",
+    "static/media/g3.jpg": "/static/media/g3.7cd5d166a19bc4efa0e3.jpg",
+    "static/media/josefin-sans-all-400-normal.woff": "/static/media/josefin-sans-all-400-normal.7c4532067e4e43539af1.woff",
+    "static/media/g5.jpg": "/static/media/g5.f9815605cf72d4909ba4.jpg",
+    "static/media/service-details-promo2.png": "/static/media/service-details-promo2.f55d89f380c9bcdd54b6.png",
+    "static/media/service-details-promo1.png": "/static/media/service-details-promo1.443f860249f5015c6dae.png",
+    "static/media/treatment_icon.png": "/static/media/treatment_icon.5ef8063e384c6f2bc562.png",
+    "static/media/doctorfinding.c2532ac3.png": "/static/media/doctorfinding.c2532ac3.3e317a80d2565d9afd8a.png",
+    "static/media/doctor-nurse.png": "/static/media/doctor-nurse.25c2728a8c3138632ffe.png",
+    "static/media/woman-brush.c4158ac5.png": "/static/media/woman-brush.c4158ac5.815abad1e1e86fd641ab.png",
+    "static/media/testi1.png": "/static/media/testi1.767c894cd77d3f416016.png",
+    "static/media/josefin-sans-latin-400-normal.woff2": "/static/media/josefin-sans-latin-400-normal.a881812c0fff75f6cf26.woff2",
+    "static/media/josefin-sans-latin-ext-400-normal.woff2": "/static/media/josefin-sans-latin-ext-400-normal.9a2c45e18269982d8d82.woff2",
+    "static/media/josefin-sans-vietnamese-400-normal.woff2": "/static/media/josefin-sans-vietnamese-400-normal.8d631991aaf999843621.woff2",
+    "index.html": "/index.html",
+    "main.828f8c10.css.map": "/static/css/main.828f8c10.css.map",
+    "main.f2a140df.js.map": "/static/js/main.f2a140df.js.map",
+    "787.a9b03d03.chunk.js.map": "/static/js/787.a9b03d03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.828f8c10.css",
+    "static/js/main.f2a140df.js"
+  ]
+}
