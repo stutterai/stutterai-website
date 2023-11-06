@@ -12,7 +12,7 @@ import { Col, Container, Row } from "react-bootstrap";
 import "./Members.css";
 
 const Doctors = (props) => {
-  const { name, status, img } = props.dentist;
+  const { name, status, img, fb, linkedin } = props.dentist;
   useEffect(() => {
     AOS.init({
       duration: 2000,
@@ -32,16 +32,10 @@ const Doctors = (props) => {
           <span>{status}</span>
         </div>
         <div className="doctors-social" data-aos="flip-left">
-          <a href=".#">
+          <a href={fb}>
             <FontAwesomeIcon icon={faFacebook} />
           </a>
-          <a href=".#">
-            <FontAwesomeIcon icon={faTwitter} />
-          </a>
-          <a href=".#">
-            <FontAwesomeIcon icon={faWhatsapp} />
-          </a>
-          <a href=".#">
+          <a href={linkedin}>
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
         </div>
