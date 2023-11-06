@@ -1,8 +1,8 @@
 import {
   faFacebook,
   faLinkedin,
-  faTwitter,
-  faWhatsapp,
+  faGithub,
+  faMailchimp,
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import AOS from "aos";
@@ -37,6 +37,9 @@ const Doctors = (props) => {
           </a>
           <a href={linkedin}>
             <FontAwesomeIcon icon={faLinkedin} />
+          </a>
+          <a href={fb}>
+            <FontAwesomeIcon icon={faGithub} />
           </a>
         </div>
       </div>
