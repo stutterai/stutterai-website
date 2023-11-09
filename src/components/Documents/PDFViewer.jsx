@@ -14,9 +14,7 @@
                       { name: 'Proposal Document - IT20188054', link: 'https://mysliit-my.sharepoint.com/:b:/g/personal/it20183554_my_sliit_lk/EUiZxmihTXpMjzpLtOT-drABPHfK1WGvMKA5V9ugyEDxVg?e=IWjur6' },
                       { name: 'Proposal Document - IT20012342', link: 'https://mysliit-my.sharepoint.com/:b:/g/personal/it20183554_my_sliit_lk/EQtxFczRO5xAlQt6tBgnYTgBmaU3mYWJGGh18jpX95Ildg?e=RwL3UK' },
                       { name: 'Proposal Document - IT20186142', link: 'https://mysliit-my.sharepoint.com/:b:/g/personal/it20183554_my_sliit_lk/ETAzqpDkQt9Kh9DJi1EQtsgBAIjjNTCDfHH9PWVMZPXdUQ?e=nFvKib' },
-                      { name: 'Proposal Document - IT20183554', link: 'https://mysliit-my.sharepoint.com/:b:/g/personal/it20183554_my_sliit_lk/Ee2_rZgwjaFJtWQdH65hwAMBGtJf9IsJmTmC-RcCiXsYEg?e=9O0qYc' },
-                      { name: 'Group Document', link: ''},
-                      // Add more proposal PDFs as needed
+                      { name: 'Proposal Document - IT20183554', link: 'https://mysliit-my.sharepoint.com/:b:/g/personal/it20183554_my_sliit_lk/Ee2_rZgwjaFJtWQdH65hwAMBGtJf9IsJmTmC-RcCiXsYEg?e=9O0qYc' }                      // Add more proposal PDFs as needed
                     ],
                   },
                   {
