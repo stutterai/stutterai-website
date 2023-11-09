@@ -10,6 +10,7 @@ import Banner from "../Banner/Banner";
 import Gallery from "../Gallery/Gallery";
 import Slick from "../Slick/Slick";
 import Testimonial from "../Testimonial/Testimonial";
+import Documents from "../../../components/Documents/PDFViewer";
 
 const Home = () => {
   return (
@@ -19,6 +20,8 @@ const Home = () => {
       <Feature />
       <Members />
       <Slick />
+      <Documents />
+
     </>
   );
 };
